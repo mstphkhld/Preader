@@ -1,7 +1,7 @@
 # Preader
 
 **Preader** is a Flutter-based PDF reader app developed solely by **Ahmed Khaldi**.  
-This repository contains the app source code and release APK for backup and distribution purposes.
+
 
 ---
 
